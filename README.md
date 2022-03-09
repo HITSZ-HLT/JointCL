@@ -1,12 +1,11 @@
-# JointCL
-Code for *JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection* is coming soon.
 # Introduction
 This repository is used in our paper:  
   
-[**Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis**](https://www.aclweb.org/anthology/2020.coling-main.13/)
+<!-- [**Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis**](https://www.aclweb.org/anthology/2020.coling-main.13/) -->
+**JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection**
 <br>
-Bin Liang, Rongdi Yin, Lin Gui<sup>\*</sup>, Jiachen Du, Ruifeng Xu<sup>\*</sup>. *Proceedings of COLING 2020*
-  
+Bin Liang, Qinlin Zhu, Xiang Li, Min Yang, Lin Gui, Yulan He, Ruifeng Xu<sup>\*</sup>. *Proceedings of ACL 2022*
+
 Please cite our paper and kindly give a star for this repository if you use this code.
 
 ## Requirements
@@ -19,7 +18,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 ## Usage
 
 * Install [faiss](https://github.com/facebookresearch/faiss) package.
-* 
+
 ## Training
 * Train with command, optional arguments could be found in [run_semeval.py](/run_semeval.py) \& [run_vast.py](/run_vast.py) \& [run_wtwt.py](/run_wtwt.py)
 
