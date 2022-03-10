@@ -13,6 +13,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 * Python 3.6
 * PyTorch 1.6.0
 * faiss-gpu 1.7.1
+* transformers 2.5.1
 
 
 ## Usage
