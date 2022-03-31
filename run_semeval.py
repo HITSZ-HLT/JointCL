@@ -377,7 +377,7 @@ if __name__ == "__main__":
     parser.add_argument('--beta', default=1.2, type=float,required=False)
 
     parser.add_argument('--device', default=None, type=str, help='e.g. cuda:0',required=False)
-    parser.add_argument('--seed', default=1234, type=int, help='set seed for reproducibility')
+    parser.add_argument('--seed', default=42, type=int, help='set seed for reproducibility')
     parser.add_argument("--batch_size", default=16, type=int, required=False)
     parser.add_argument("--eval_batch_size", default=16, type=int, required=False)
     parser.add_argument("--epochs", default=10, type=int, required=False)
