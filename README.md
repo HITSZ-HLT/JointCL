@@ -30,7 +30,9 @@ Please cite our paper and kindly give a star for this repository if you use this
 
 * Run WTWT dataset: ```python ./run_wtwt.py```
 
+## Reproduce
 
+* Run python files in [run_checkpoints](/run_checkpoints), you can use the trained model for prediction, and the model can be downloaded from [Google drives](https://drive.google.com/drive/folders/1W-UIVfHVgsLycTZdEIb4gNhGKCBW2wKo?usp=sharing).
 
 <!-- ## Citation
 
