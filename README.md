@@ -69,7 +69,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 	</tr>
 	<tr>
 		<td> HC </td><td>54.8</td><td>56.4</td>
-		<td>50.7</td> <td>56.4</td> <td>45.7</td> <td style="color:#FF0000">55.9</td> <td>51.3</td> 
+		<td>50.7</td> <td>56.4</td> <td>45.7</td> <td>55.9</td> <td>51.3</td> 
 		<td>52.0</td> <td>56.4</td> <td>+1.6</td>
 	</tr>
 
