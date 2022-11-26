@@ -36,9 +36,11 @@ Please cite our paper and kindly give a star for this repository if you use this
 * We have provided checkpoints that are superior or equal to the performance reported in the paper. 
 * Please Run python files in [run_checkpoints](/run_checkpoints), you can use the trained model for prediction, and the model can be downloaded from [Google drives](https://drive.google.com/drive/folders/1W-UIVfHVgsLycTZdEIb4gNhGKCBW2wKo?usp=sharing).
 * We also use 5 random seeds to run the code directly. The performance is as follows:
+<!--
     |Dataset | Task | Target | Reported | Checkpoint | seed1 | seed2 | seed3 | seed4 | seed5 | Mean | Max | Gap |
     | --------   | -----   |--------   | -----   |--------   | --------   | -----   |--------   | -----   |--------   |--------   | -----   |--------   |
     | Vast | Zero-shot | - | 72.3 |  72.4 | 70.6 | 71.3 | 72.4 | 72.0 | 71.3 | 71.5 | 72.4 | +0.1|
+-->
     
 
 <table border="1" width="500px" cellspacing="10">
