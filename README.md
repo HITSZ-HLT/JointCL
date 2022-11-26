@@ -59,10 +59,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 	</tr>
 	<tr>
 		<td rowspan="2" align="center">Zero-shot</td>
-		<td>Vast</td>
-		<td> - </td>
-		<td>72.3</td>
-		<td>72.3</td>
+		<td>Vast</td><td> - </td><td>72.3</td><td>72.3</td>
 	</tr>
 
 </table>
