@@ -64,7 +64,13 @@ Please cite our paper and kindly give a star for this repository if you use this
 		<td>VAST</td><td> - </td><td>72.3</td><td>72.4</td><td>70.6</td><td>71.3</td><td>72.4</td><td>72.0</td><td>71.3</td><td>71.5</td><td>72.4</td><td>+0.1</td>
 	</tr>
 	<tr>
-		<td>SEM16</td><td> DT </td><td>50.5</td><td>50.9</td><td>50.2</td><td>46</td><td>48.4</td><td>50.3</td><td>45.6</td><td>48.1</td><td>50.3</td><td>-0.2</td>
+		<td rowspan="6" align="center">SEM16</td>
+		<td> DT </td><td>50.5</td><td>50.9</td><td>46.0</td><td>40.6</td><td>45.6</td><td>48.4</td><td>50.2</td><td>46.2</td><td>50.2</td><td>-0.3</td>
+	</tr>
+	<tr>
+		<td> HC </td><td>54.8</td><td>56.4</td>
+		<td>50.7</td> <td>56.4</td> <td>45.7</td> <td>55.9</td> <td>51.3</td> 
+		<td>52.0</td> <td>56.4</td> <td>+1.6</td>
 	</tr>
 
 </table>
