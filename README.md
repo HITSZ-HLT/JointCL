@@ -32,7 +32,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 
 ## Reproduce & Peformance
 
-* Due to the small number of dataset samples, please tune the parameter of *--seed* for better performance.
+* Due to the small number of dataset samples (especially SEM16), please tune the parameter of *--seed* for better performance.
 * We have provided checkpoints that are superior or equal to the performance reported in the paper. 
 * Please Run python files in [run_checkpoints](/run_checkpoints), you can use the trained model for prediction, and the model can be downloaded from [Google drives](https://drive.google.com/drive/folders/1W-UIVfHVgsLycTZdEIb4gNhGKCBW2wKo?usp=sharing).
 * We also use 5 random seeds to run the code directly. The performance is as follows:
@@ -92,7 +92,27 @@ Please cite our paper and kindly give a star for this repository if you use this
 		<td>31.9</td> <td>36.9</td> <td>39.7</td> <td>40.2</td> <td>28.3</td> 
 		<td>35.4</td> <td>40.2</td> <td>+0.5</td>
 	</tr>
-
+	<tr>
+		<td rowspan="4" align="center">WTWT</td>
+		<td> CA </td> <td>72.4</td> <td>73.6</td>
+		<td>72.5</td> <td>71.4</td> <td>73.3</td> <td>73.4</td> <td>74.9</td> 
+		<td>73.1</td> <td>74.9</td> <td>+2.5</td>
+	</tr>
+	<tr>
+		<td> CE </td> <td>70.2</td> <td>70.9</td>
+		<td>70.1</td> <td>71.4</td> <td>70.4</td> <td>70.3</td> <td>70.3</td> 
+		<td>70.1</td> <td>71.4</td> <td>+1.2</td>
+	</tr>
+	<tr>
+		<td> AC </td> <td>76.0</td> <td>76.5</td>
+		<td>75.0</td> <td>74.3</td> <td>77.3</td> <td>73.3</td> <td>75.6</td> 
+		<td>75.1</td> <td>77.3</td> <td>+1.3</td>
+	</tr>
+	<tr>
+		<td> AH </td> <td>75.2</td> <td>76.5</td>
+		<td>76.2</td> <td>76.1</td> <td>76.0</td> <td>77.9</td> <td>78.0</td> 
+		<td>76.8</td> <td>78.0</td> <td>+2.8</td>
+	</tr>
 </table>
 
 
