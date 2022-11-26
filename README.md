@@ -61,7 +61,10 @@ Please cite our paper and kindly give a star for this repository if you use this
 	</tr>
 	<tr>
 		<td rowspan="2" align="center">Zero-shot</td>
-		<td>Vast</td><td> - </td><td>72.3</td><td>72.4</td><td>70.6</td><td>71.3</td><td>72.4</td><td>72.0</td><td>71.3</td><td>71.5</td><td>72.4</td><td>+0.1</td>
+		<td>VAST</td><td> - </td><td>72.3</td><td>72.4</td><td>70.6</td><td>71.3</td><td>72.4</td><td>72.0</td><td>71.3</td><td>71.5</td><td>72.4</td><td>+0.1</td>
+	</tr>
+	<tr>
+		<td>SEM16</td><td> DT </td><td>50.5</td><td>50.9</td><td>50.2</td><td>46</td><td>48.4</td><td>50.3</td><td>45.6</td><td>48.1</td><td>50.3</td><td>-0.2</td>
 	</tr>
 
 </table>
