@@ -72,6 +72,26 @@ Please cite our paper and kindly give a star for this repository if you use this
 		<td>50.7</td> <td>56.4</td> <td>45.7</td> <td>55.9</td> <td>51.3</td> 
 		<td>52.0</td> <td>56.4</td> <td>+1.6</td>
 	</tr>
+	<tr>
+		<td> FM </td> <td>53.8</td> <td>54.2</td>
+		<td>50.9</td> <td>51.1</td> <td>49.1</td> <td>49.8</td> <td>49.4</td> 
+		<td>50.1</td> <td>51.1</td> <td>-2.7</td>
+	</tr>
+	<tr>
+		<td> LA </td> <td>49.5</td> <td>55.5</td>
+		<td>54.8</td> <td>54.3</td> <td>55.5</td> <td>51.3</td> <td>47.1</td> 
+		<td>52.6</td> <td>55.5</td> <td>+6</td>
+	</tr>
+	<tr>
+		<td> A </td> <td>54.5</td> <td>54.6</td>
+		<td>55.1</td> <td>48.0</td> <td>60.0</td> <td>55.4</td> <td>55.2</td> 
+		<td>54.7</td> <td>60.0</td> <td>+5.5</td>
+	</tr>
+	<tr>
+		<td> CC </td> <td>39.7</td> <td>40.7</td>
+		<td>31.9</td> <td>36.9</td> <td>39.7</td> <td>40.2</td> <td>28.3</td> 
+		<td>35.4</td> <td>40.2</td> <td>+0.5</td>
+	</tr>
 
 </table>
 
