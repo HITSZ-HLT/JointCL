@@ -113,6 +113,33 @@ Please cite our paper and kindly give a star for this repository if you use this
 		<td>76.2</td> <td>76.1</td> <td>76.0</td> <td>77.9</td> <td>78.0</td> 
 		<td>76.8</td> <td>78.0</td> <td>+2.8</td>
 	</tr>
+	<tr>
+		<td> Few-shot </td> <td>VAST</td>
+		<td> - </td> <td>71.5</td> <td>71.6</td>
+		<td>71.6</td> <td>71.9</td> <td>68.4</td> <td>66.1</td> <td>69.5</td> 
+		<td>69.5</td> <td>71.9</td> <td>+0.4</td>
+	</tr>
+	<tr>
+		<td rowspan="4" align="center"> Cross-target </td> <td>SEM16</td>
+		<td> HC->DT </td> <td>52.8</td> <td>54.6</td>
+		<td>42.9</td> <td>46.9</td> <td>48.1</td> <td>53.7</td> <td>54.2</td> 
+		<td>49.2</td> <td>54.2</td> <td>+1.4</td>
+	</tr>
+	<tr>
+		<td> DT->HC </td> <td>54.3</td> <td>55.4</td>
+		<td>52.1</td> <td>55.8</td> <td>54.6</td> <td>47.8</td> <td>38.6</td> 
+		<td>49.8</td> <td>55.8</td> <td>+1.5</td>
+	</tr>
+	<tr>
+		<td> FM->LA </td> <td>58.8</td> <td>60.0</td>
+		<td>49.8</td> <td>58.0</td> <td>58.3</td> <td>46.7</td> <td>45.7</td> 
+		<td>51.7</td> <td>60.0</td> <td>-0.5</td>
+	</tr>
+	<tr>
+		<td> LA->FM </td> <td>54.5</td> <td>54.8</td>
+		<td>45.8</td> <td>41.8</td> <td>54.1</td> <td>36.2</td> <td>47.9</td> 
+		<td>45.2</td> <td>54.1</td> <td>-0.4</td>
+	</tr>
 </table>
 
 
