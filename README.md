@@ -120,7 +120,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 		<td>69.5</td> <td>71.9</td> <td>+0.4</td>
 	</tr>
 	<tr>
-		<td rowspan="4" align="center"> Cross-target </td> <td>SEM16</td>
+		<td rowspan="4" align="center"> Cross-target </td> <td rowspan="4" align="center">SEM16</td>
 		<td> HC->DT </td> <td>52.8</td> <td>54.6</td>
 		<td>42.9</td> <td>46.9</td> <td>48.1</td> <td>53.7</td> <td>54.2</td> 
 		<td>49.2</td> <td>54.2</td> <td>+1.4</td>
