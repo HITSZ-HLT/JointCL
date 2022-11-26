@@ -36,9 +36,43 @@ Please cite our paper and kindly give a star for this repository if you use this
 * We have provided checkpoints that are superior or equal to the performance reported in the paper. 
 * Please Run python files in [run_checkpoints](/run_checkpoints), you can use the trained model for prediction, and the model can be downloaded from [Google drives](https://drive.google.com/drive/folders/1W-UIVfHVgsLycTZdEIb4gNhGKCBW2wKo?usp=sharing).
 * We also use 5 random seeds to run the code directly. The performance is as follows:
-    |Task | dataset | Target | Reported | checkpoint | seed1 | seed2 | seed3 | seed4 | seed5 | Mean | Max | Gap |
+    |Dataset | Task | Target | Reported | Checkpoint | seed1 | seed2 | seed3 | seed4 | seed5 | Mean | Max | Gap |
     | --------   | -----   |--------   | -----   |--------   | --------   | -----   |--------   | -----   |--------   |--------   | -----   |--------   |
-    | Zero-shot | Vast | - | 72.3 |  72.4 | 70.6 | 71.3 | 72.4 | 72.0 | 71.3 | 71.5 | 72.4 | +0.1|
+    | Vast | Zero-shot | - | 72.3 |  72.4 | 70.6 | 71.3 | 72.4 | 72.0 | 71.3 | 71.5 | 72.4 | +0.1|
+    
+
+<table border="1" width="500px" cellspacing="10">
+<tr>
+  <th align="left">表头(左对齐)</th>
+  <th align="center">表头(居中)</th>
+  <th align="right">表头(右对齐)</th>
+</tr>
+<tr>
+  <td>行1，列1</td>
+  <td>行1，列2</td>
+  <td>行1，列3</td>
+</tr>
+<tr>
+  <td colspan="2" align="center">合并行单元格</td>
+  <td>行2，列3</td>
+</tr>
+<tr>
+  <td rowspan="2" align="center">合并列单元格</td>
+  <td>行3，列2</td>
+  <td>行3，列3</td>
+</tr>
+<tr>
+  <td>行4，列2</th>
+  <td>行4，列2</td>
+</tr>
+</table>
+<!--在表格td中，有两个属性控制居中显示
+	align——表示左右居中——left，center，right
+	valign——控制上下居中——left，center，right
+	width——控制单元格宽度，单位像素
+	cellspacing——单元格之间的间隔，单位像素
+-->
+
 
 <!-- ## Citation
 
