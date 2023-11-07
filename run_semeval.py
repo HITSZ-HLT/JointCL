@@ -6,11 +6,11 @@ import torch
 from torch import optim
 import random
 import numpy as np
-from criterion import TraditionCriterion, Stance_loss
+from utils.criterion import TraditionCriterion, Stance_loss
 from torch.utils.data import RandomSampler, DataLoader
 from tensorboardX import SummaryWriter
 from sklearn.metrics import f1_score, accuracy_score
-from data_utils import  Tokenizer4Bert, ZSSDDataset
+from utils.data_utils import  Tokenizer4Bert, ZSSDDataset
 from transformers import BertModel
 from models.bert_scl_prototype_graph import BERT_SCL_Proto_Graph
 from models.bert_scl import BERT_SCL
